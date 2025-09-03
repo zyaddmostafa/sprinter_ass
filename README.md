@@ -106,25 +106,25 @@ The app automatically supports English and Egyptian Arabic. Language switching i
 
 ## 📱 Screenshots
 
-### Welcome Screen
+# hot offers 
 <img src="assets/screenshots/Screenshot_1756937373.png" width="300" alt="Welcome Screen">
 
-### Sign Up Screen
+# signin
 <img src="assets/screenshots/Screenshot_1756938430.png" width="300" alt="Sign Up Screen">
 
-### Sign In Screen
+# signup
 <img src="assets/screenshots/Screenshot_1756938635.png" width="300" alt="Sign In Screen">
 
-### Language Selection
+# products
 <img src="assets/screenshots/Screenshot_1756938660.png" width="300" alt="Language Selection">
 
-### Shopping Home Screen
+# Shopping Home Screen
 <img src="assets/screenshots/Screenshot_1756938925.png" width="300" alt="Shopping Home Screen">
 
-### Product Grid View
+# Welcome Screen
 <img src="assets/screenshots/Screenshot_1756940117.png" width="300" alt="Product Grid View">
 
-### Featured Products Section
+# Language Selection
 <img src="assets/screenshots/Screenshot_1756940151.png" width="300" alt="Featured Products Section">
 
 ---
