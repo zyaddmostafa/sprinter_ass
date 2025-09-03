@@ -107,25 +107,25 @@ The app automatically supports English and Egyptian Arabic. Language switching i
 ## 📱 Screenshots
 
 ### Welcome Screen
-<img src="assets/Screenshots/Screenshot_1756937373.png" width="300" alt="Welcome Screen">
+<img src="assets/screenshots/Screenshot_1756937373.png" width="300" alt="Welcome Screen">
 
 ### Sign Up Screen
-<img src="assets/Screenshots/Screenshot_1756938430.png" width="300" alt="Sign Up Screen">
+<img src="assets/screenshots/Screenshot_1756938430.png" width="300" alt="Sign Up Screen">
 
 ### Sign In Screen
-<img src="assets/Screenshots/Screenshot_1756938635.png" width="300" alt="Sign In Screen">
+<img src="assets/screenshots/Screenshot_1756938635.png" width="300" alt="Sign In Screen">
 
 ### Language Selection
-<img src="assets/Screenshots/Screenshot_1756938660.png" width="300" alt="Language Selection">
+<img src="assets/screenshots/Screenshot_1756938660.png" width="300" alt="Language Selection">
 
 ### Shopping Home Screen
-<img src="assets/Screenshots/Screenshot_1756938925.png" width="300" alt="Shopping Home Screen">
+<img src="assets/screenshots/Screenshot_1756938925.png" width="300" alt="Shopping Home Screen">
 
 ### Product Grid View
-<img src="assets/Screenshots/Screenshot_1756940117.png" width="300" alt="Product Grid View">
+<img src="assets/screenshots/Screenshot_1756940117.png" width="300" alt="Product Grid View">
 
 ### Featured Products Section
-<img src="assets/Screenshots/Screenshot_1756940151.png" width="300" alt="Featured Products Section">
+<img src="assets/screenshots/Screenshot_1756940151.png" width="300" alt="Featured Products Section">
 
 ---
 
